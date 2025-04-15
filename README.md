@@ -20,25 +20,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilSan00&theme=radical&layout=compact&hide_title=true" />
 </div>
 
-<br />
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=DilSan00&theme=radical&border_radius=5)](https://git.io/streak-stats)
-
-<br />
-
 ---
 
 ### ⏱️ Время в коде
 
 <img alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D32407%26project%3D%26in=0" />
-
----
-
-### 🚀 Портфолио
-
-#### Коммерчиские проекты
-- 🏡 [HomeLife.kg](https://homelife.kg)
-- 🛒 [Интернет-магазин шин](https://example.com) - В Разработке !
 
 ---
 
