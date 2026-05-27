@@ -1,13 +1,12 @@
 <div align="center">
 
 ```
- ██████╗ ███████╗ █████╗ ███╗   ██╗ ██████╗██╗  ██╗ ██████╗ ███████╗
- ██╔══██╗██╔════╝██╔══██╗████╗  ██║██╔════╝██║  ██║██╔═══██╗██╔════╝
- ██║  ██║███████╗███████║██╔██╗ ██║██║     ███████║██║   ██║███████╗
- ██║  ██║╚════██║██╔══██║██║╚██╗██║██║     ██╔══██║██║   ██║╚════██║
- ██████╔╝███████║██║  ██║██║ ╚████║╚██████╗██║  ██║╚██████╔╝███████║
- ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
-                                                                   
+                                            ██████╗ ███████╗ █████╗ ███╗   ██╗ ██████╗██╗  ██╗ ██████╗ ███████╗
+                                            ██╔══██╗██╔════╝██╔══██╗████╗  ██║██╔════╝██║  ██║██╔═══██╗██╔════╝
+                                            ██║  ██║███████╗███████║██╔██╗ ██║██║     ███████║██║   ██║███████╗
+                                            ██║  ██║╚════██║██╔══██║██║╚██╗██║██║     ██╔══██║██║   ██║╚════██║
+                                            ██████╔╝███████║██║  ██║██║ ╚████║╚██████╗██║  ██║╚██████╔╝███████║
+                                            ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝                                              
 ```
 
 ### Hey, I'm Sanzhar 👋
@@ -29,7 +28,7 @@ Currently pushing toward **Middle+ / Senior** level — one commit at a time.
 const sanzhar = {
   role:     "Frontend Developer",
   location: "Bishkek, Kyrgyzstan 🇰🇬",
-  goal:     "Middle+ → Senior React Developer",
+  goal:     "Middle → Middle+, Senior React Developer",
   focus:    ["Clean Architecture", "AI Tooling", "Scalable UI"],
   learning: ["Advanced TypeScript Patterns", "System Design"],
   hobbies:  ["Drawing & Visual Art", "Robotics & Drones 🤖"],
@@ -98,7 +97,7 @@ const sanzhar = {
   2023 ──► Learned React + TypeScript fundamentals
   2024 ──► Built production features: FSD, RTK Query, SCSS Modules
   2025 ──► Integrating AI tooling into frontend workflow
-  2026 ──► Targeting Middle+
+  2026 ──► Targeting Middle+, Senior
 ```
 
 ---
