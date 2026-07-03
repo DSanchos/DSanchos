@@ -70,24 +70,26 @@ const sanzhar = {
 
 <div align="center">
 
-<!-- 1. График активности (Рабочий Vercel-деплой) -->
-[![Activity Graph](https://vercel.app)](https://github.com)
+<!-- График активности -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DSanchos&theme=github-compact)](https://github.com/DSanchos)
 
 <br/>
 
-<!-- 2. Серия коммитов (Streak — оставляем рабочий) -->
-[![GitHub Streak](https://demolab.com)](https://github.com) 
-
-<!-- 3. Общая статистика профиля (Рабочий Vercel-деплой) -->
-[![GitHub Stats](https://vercel.app)](https://github.com)
+<!-- Streak stats -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=DSanchos&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <br/>
 
-<!-- 4. Самые используемые языки (Рабочий Vercel-деплой) -->
-[![Top Langs](https://vercel.app)](https://github.com)
+<!-- Статистика -->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DSanchos&show_icons=true&theme=dark&hide_border=true)](https://github.com/DSanchos)
 
-<!-- 5. Игровые трофеи (Рабочий Vercel-деплой) -->
-[![GitHub Trophies](https://vercel.app)](https://github.com)
+<br/>
+
+<!-- Топ языков -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DSanchos&layout=compact&theme=dark&hide_border=true)](https://github.com/DSanchos)
+
+<!-- Трофеи -->
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DSanchos&theme=darkhub&no-frame=true&row=1)](https://github.com/DSanchos)
 
 </div>
 
