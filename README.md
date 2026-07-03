@@ -88,6 +88,8 @@ const sanzhar = {
 <!-- Топ языков -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DSanchos&layout=compact&theme=dark&hide_border=true)](https://github.com/DSanchos)
 
+<br/>
+
 <!-- Трофеи -->
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DSanchos&theme=darkhub&no-frame=true&row=1)](https://github.com/DSanchos)
 
