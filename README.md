@@ -72,9 +72,7 @@ const sanzhar = {
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DSanchos&theme=radical&hide_border=true&border_radius=8)](https://git.io/streak-stats)
 
-[![Sanzhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DSanchos&show_icons=true&theme=radical&hide_border=true&border_radius=8&hide_title=true&include_all_commits=true&count_private=true)](https://github.com/DSanchos)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DSanchos&theme=radical&hide_border=true&border_radius=8&layout=compact&hide_title=true)](https://github.com/DSanchos)
+![GitHubCard](https://githubcard.com/DSanchos.svg)
 
 </div>
 
