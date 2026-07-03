@@ -71,8 +71,7 @@ const sanzhar = {
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DSanchos&theme=radical&hide_border=true&border_radius=8)](https://git.io/streak-stats)
-
-![GitHubCard](https://githubcard.com/DSanchos.svg)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DSanchos&theme=youtube-dark&hide_border=true&border_radius=5&short_numbers=true)](https://git.io/streak-stats)
 
 </div>
 
