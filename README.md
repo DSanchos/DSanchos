@@ -81,17 +81,17 @@ const sanzhar = {
 <br/>
 
 <!-- Статистика -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DSanchos&show_icons=true&theme=dark&hide_border=true)](https://github.com/DSanchos)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dsanchos&show_icons=true&theme=dark&hide_border=true)](https://github.com/DSanchos)
 
 <br/>
 
 <!-- Топ языков -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DSanchos&layout=compact&theme=dark&hide_border=true)](https://github.com/DSanchos)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsanchos&layout=compact&theme=dark&hide_border=true)](https://github.com/DSanchos)
 
 <br/>
 
 <!-- Трофеи -->
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DSanchos&theme=darkhub&no-frame=true&row=1)](https://github.com/DSanchos)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dsanchos&theme=darkhub&no-frame=true&row=1)](https://github.com/DSanchos)
 
 </div>
 
