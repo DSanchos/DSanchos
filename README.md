@@ -70,8 +70,24 @@ const sanzhar = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DSanchos&theme=radical&hide_border=true&border_radius=8)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=DSanchos&theme=youtube-dark&hide_border=true&border_radius=5&short_numbers=true)](https://git.io/streak-stats)
+<!-- График активности (линия) -->
+[![Activity Graph](https://vercel.app)](https://github.com)
+
+<br/>
+
+<!-- Серия коммитов (Streak) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=DSanchos&theme=youtube-dark&hide_border=true&border_radius=5&short_numbers=true)](https://git.io/streak-stats) 
+
+<!-- Основная статистика (Stats) -->
+[![GitHub Stats](https://vercel.app)](https://github.com)
+
+<br/>
+
+<!-- Самые используемые языки -->
+[![Top Langs](https://vercel.app)](https://github.com)
+
+<!-- Игровые трофеи (Trophies) -->
+[![GitHub Trophies](https://vercel.app)](https://github.com)
 
 </div>
 
