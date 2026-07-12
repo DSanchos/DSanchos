@@ -15,7 +15,7 @@
 **Frontend Developer** focused on building clean, scalable interfaces with React & TypeScript.  
 Currently pushing toward **Middle+ / Senior** level — one commit at a time.
 
-[![GitLab](https://img.shields.io/badge/GitLab-View%20Profile-FC6D26?logo=gitlab&logoColor=white)](https://gitlab.com/DSanchos))
+[![GitLab](https://img.shields.io/badge/GitLab-View%20Profile-FC6D26?logo=gitlab&logoColor=white)](https://gitlab.com/DSanchos)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanzhar-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanchos-d-783a79291/)
 [![Instagram](https://img.shields.io/badge/Instagram-@zx__sanchos__xz-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/zx_sanchos_xz/)
 [![Profile Views](https://komarev.com/ghpvc/?username=DSanchos&style=flat-square&color=blueviolet&label=Profile+Views)](https://github.com/DSanchos)
