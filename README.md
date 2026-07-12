@@ -76,22 +76,11 @@ const sanzhar = {
 <br/>
 
 <!-- Streak stats -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=DSanchos&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DSanchos&theme=sakura-x&hide_border=true)](https://git.io/streak-stats)
 
 <br/>
 
-<!-- Статистика -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dsanchos&show_icons=true&theme=dark&hide_border=true)](https://github.com/DSanchos)
-
-<br/>
-
-<!-- Топ языков -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsanchos&layout=compact&theme=dark&hide_border=true)](https://github.com/DSanchos)
-
-<br/>
-
-<!-- Трофеи -->
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dsanchos&theme=darkhub&no-frame=true&row=1)](https://github.com/DSanchos)
+[![GitLab](https://img.shields.io/badge/GitLab-View%20Profile-FC6D26?logo=gitlab&logoColor=white)](https://gitlab.com/DSanchos))
 
 </div>
 
